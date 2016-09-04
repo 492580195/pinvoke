@@ -33,7 +33,7 @@ if ($NothingToDo) {
 }
 
 # External dependencies
-$sourceNugetExe = "https://dist.nuget.org/win-x86-commandline/v3.3.0/nuget.exe"
+$sourceNugetExe = "https://dist.nuget.org/win-x86-commandline/v3.5.0-rc1/NuGet.exe"
 
 # Path variables
 $ProjectRoot = Split-Path -parent $PSCommandPath
